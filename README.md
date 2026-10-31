@@ -3,10 +3,6 @@
 A complete, self-contained high-frequency-trading backtesting engine implementing the
 Avellaneda-Stoikov (2008) market-making strategy and its 2018 extensions.
 
-Built as the entrance-exam submission for the HFT School at CMF (Advanced Quantitative
-Analytics Program / Institute of Quantitative Finance), led by Alexandr Boyko, Founder of
-1010 Trading.
-
 ---
 
 ## 1. Project Overview
